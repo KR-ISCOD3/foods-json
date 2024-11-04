@@ -1,0 +1,34 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "អាម៉ុកត្រី",
+      "price": 5.99,
+      "description": "A traditional Khmer dish made with fish, coconut milk, and a blend of spices, steamed in banana leaves. It's creamy, aromatic, and mildly spicy, offering a unique taste of Cambodian cuisine."
+    },
+    {
+      "id": 2,
+      "name": "បាយសាច់ជ្រូក",
+      "price": 3.5,
+      "description": "A popular breakfast dish in Cambodia, featuring grilled pork served with broken rice, often accompanied by pickled vegetables and a light broth."
+    },
+    {
+      "id": 3,
+      "name": "នំបញ្ចុក",
+      "price": 4.0,
+      "description": "A traditional Khmer noodle soup with rice noodles, green curry, fish, and fresh herbs. Known as 'Khmer noodles,' it is commonly enjoyed as a breakfast dish."
+    },
+    {
+      "id": 4,
+      "name": "ឡុកឡាក់",
+      "price": 6.5,
+      "description": "Tender stir-fried beef served on a bed of lettuce, tomatoes, and cucumbers, typically accompanied by a pepper-lime dipping sauce."
+    },
+    {
+      "id": 5,
+      "name": "សម្លកកូរ",
+      "price": 5.0,
+      "description": "A hearty vegetable stew featuring fish, banana flowers, and a variety of green vegetables, seasoned with prahok (fermented fish paste) for an authentic Khmer flavor."
+    }
+  ]
+}
