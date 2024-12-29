@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "អាម៉ុកត្រី",
-      "price": 5.99,
+      "price": 2.0,
       "description": "A traditional Khmer dish made with fish, coconut milk, and a blend of spices, steamed in banana leaves. It's creamy, aromatic, and mildly spicy, offering a unique taste of Cambodian cuisine.",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9qcbwOzybKDnZB97FRHKhmjR3-g20yQgh3nxoPICLhFZKK78Q-JVNjAakBieJJRP56dX1Ge4zu8j74BUAebnnW0SD017z382bIZ_Hm7HaGq9p9vXkpQsn5zc-RfBx2YLr9UoevRWbiKY/s1600/G0205+Angkor+Pl+d1_055.jpg",
       "category": "lunch"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "បាយសាច់ជ្រូក",
-      "price": 3.5,
+      "price": 1.5,
       "description": "A popular breakfast dish in Cambodia, featuring grilled pork served with broken rice, often accompanied by pickled vegetables and a light broth.",
       "image": "https://kohsantepheap.tv/wp-content/uploads/2016/06/IMG_1192.jpg",
       "category": "breakfast"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "នំបញ្ចុក",
-      "price": 4.0,
+      "price": 1.0,
       "description": "A traditional Khmer noodle soup with rice noodles, green curry, fish, and fresh herbs. Known as 'Khmer noodles,' it is commonly enjoyed as a breakfast dish.",
       "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/ab/16/f5/caption.jpg",
       "category": "breakfast"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "ឡុកឡាក់",
-      "price": 6.5,
+      "price": 1.5,
       "description": "Tender stir-fried beef served on a bed of lettuce, tomatoes, and cucumbers, typically accompanied by a pepper-lime dipping sauce.",
       "image": "https://storage.googleapis.com/takeapp/media/clyjr526400000cjoabg44enm.jpeg",
       "category": "dinner"
@@ -35,10 +35,130 @@
     {
       "id": 5,
       "name": "សម្លកកូរ",
-      "price": 5.0,
+      "price": 1.0,
       "description": "A hearty vegetable stew featuring fish, banana flowers, and a variety of green vegetables, seasoned with prahok (fermented fish paste) for an authentic Khmer flavor.",
       "image": "https://media.sabay.com/media/sabay_der/campaign/Restaurantsr/Sourkea/heng.jpg",
       "category": "dinner"
+    },
+    {
+      "id": 6,
+      "name": "សម្លម្ជូរជ្រូក",
+      "price": 1.5,
+      "description": "A sour soup with pork, pineapple, tomatoes, and tamarind for a tangy and refreshing flavor.",
+      "image": "https://i.ytimg.com/vi/_UJJ0ttezNo/maxresdefault.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 7,
+      "name": "បាយឆាសាច់មាន់",
+      "price": 1.0,
+      "description": "Fried rice with chicken, seasoned with soy sauce and garlic, served with fresh vegetables.",
+      "image": "https://dyj6gt4964deb.cloudfront.net/images/crop-c655b489-f3f7-40d9-ad12-88179a3f7597.jpeg",
+      "category": "lunch"
+    },
+    {
+      "id": 8,
+      "name": "គុយទាវសាច់គោ",
+      "price": 1.5,
+      "description": "A hearty noodle soup with beef, garnished with fresh herbs and bean sprouts.",
+      "image": "https://cdn.vietnam.vn/wp-content/uploads/2024/10/1728009011_508_Bun-bo-Hue-an-dau-cung-tham.jpg",
+      "category": "breakfast"
+    },
+    {
+      "id": 9,
+      "name": "សម្លកកូរសាច់ជ្រូក",
+      "price": 1.2,
+      "description": "A traditional beef curry with coconut milk, vegetables, and Khmer spices, served with rice.",
+      "image": "https://cms.dmpcdn.com/cdn-cgi/image/fit=cover,quality=85,f=auto/https://cms.dmpcdn.com/article/2020/07/10/49cc2990-6cd6-11eb-bbfe-a51c5e7ae8c4_original.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 10,
+      "name": "សាច់ជ្រូកចៀន",
+      "price": 1.25,
+      "description": "Deep-fried pork belly, crispy on the outside and juicy on the inside, served with pickled vegetables.",
+      "image": "https://1.bp.blogspot.com/-ob2qCeGMv2U/W8rRwYz2fgI/AAAAAAAAZ14/1j4nh0ZV19EUgD8cUHzKx5qxXrPZrJqmwCLcBGAs/s1600/6.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 11,
+      "name": "បាយសាច់មាន់",
+      "price": 1.5,
+      "description": "Steamed rice with grilled chicken, served with a side of sweet and spicy dipping sauce.",
+      "image": "https://images.deliveryhero.io/image/fd-kh/Products/1439655.jpg?width=%s",
+      "category": "lunch"
+    },
+    {
+      "id": 12,
+      "name": "ត្រីចៀន",
+      "price": 1.0,
+      "description": "Stir-fried fish with ginger, garlic, and soy sauce, served with steamed rice.",
+      "image": "https://kohsantepheap.tv/wp-content/uploads/2016/06/Fried-Fish.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 13,
+      "name": "បបរមាន់",
+      "price": 1.2,
+      "description": "Chicken porridge, a light and comforting breakfast dish, perfect with fresh herbs.",
+      "image": "https://images.deliveryhero.io/image/fd-kh/Products/476572.jpg?width=%s",
+      "category": "breakfast"
+    },
+    {
+      "id": 14,
+      "name": "បាយសាច់គោ",
+      "price": 2.5,
+      "description": "Steamed rice with stir-fried beef and vegetables, seasoned with soy sauce.",
+      "image": "https://pppkhmer.sgp1.digitaloceanspaces.com/image/main/field/image/green-paper-fried.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 15,
+      "name": "សម្លប្រហើរមាន់",
+      "price": 1.2,
+      "description": "A clear chicken soup with lemongrass, galangal, and lime leaves, served with rice.",
+      "image": "https://oss6.tnaot.com/tnaot/image/2022/10/17/52e46bd47c854a00b26fc1de8945f36a.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 16,
+      "name": "សម្លដើមចេក",
+      "price": 5.2,
+      "description": "Banana flower soup made with coconut milk, dried fish, and Khmer spices for a creamy and earthy flavor.",
+      "image": "https://i.ytimg.com/vi/Ha3-RnvHOx4/maxresdefault.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 17,
+      "name": "អាំងត្រីរ៉ស់",
+      "price": 1.3,
+      "description": "Grilled snakehead fish seasoned with lemongrass, garlic, and lime, served with fresh vegetables.",
+      "image": "https://i.ytimg.com/vi/oBtmy4PwXLg/maxresdefault.jpg",
+      "category": "dinner"
+    },
+    {
+      "id": 18,
+      "name": "ស្លាបមាន់ចៀន",
+      "price": 1.5,
+      "description": "Crispy fried chicken wings marinated with garlic and soy sauce, served with chili sauce.",
+      "image": "https://infotainment.ams.com.kh/wp-content/uploads/2022/12/Thumbnail-1.jpg",
+      "category": "lunch"
+    },
+    {
+      "id": 19,
+      "name": "មាន់ដុត",
+      "price": 5.5,
+      "description": "Crispy fried chicken thighs served with pickled carrots and radish.",
+      "image": "https://foodbuzz.site/api/v1/files/bb68e691-ae0a-4d20-96f0-41459eb24314",
+      "category": "lunch"
+    },
+    {
+      "id": 20,
+      "name": "បាយឆាម្ជូរទ្រី",
+      "price": 4.8,
+      "description": "Fried rice with fish paste, topped with fresh herbs and lime wedges.",
+      "image": "https://images.deliveryhero.io/image/fd-kh/Products/2472060.jpg?width=%s",
+      "category": "lunch"
     }
   ]
 }
